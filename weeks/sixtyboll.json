@@ -1,0 +1,27 @@
+{
+	"storyName": "Sixty-Boll for April Fools",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Bit-Beat",
+			"sa64",
+			[
+				65,
+				65,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Bit-Beat"
+}

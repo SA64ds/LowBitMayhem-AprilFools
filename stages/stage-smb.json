@@ -1,0 +1,18 @@
+{
+	"directory": "",
+	"defaultZoom": 1,
+	"isPixelStage": true,
+
+	"boyfriend": [700, 100],
+	"girlfriend": [620, 590],
+	"opponent": [210, 100],
+
+   "camera_boyfriend": [-50, -5],
+	"camera_opponent": [-20, -100],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 10,
+
+	"preload": {
+		"stages/smb1stage/smb1stage": 1
+	}
+}

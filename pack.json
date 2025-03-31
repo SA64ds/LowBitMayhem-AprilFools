@@ -1,0 +1,9 @@
+{
+	"name": "Low-Bit Mayhem",
+	"description": "Everything for Sixty-Boll. For testing purposes only!",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [65, 65, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

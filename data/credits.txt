@@ -1,0 +1,7 @@
+Sixty-Boll
+SA64::sa64::Charting & Pixel Art::https://linktr.ee/SA64ds::4141FF
+ShultzNG::shultz::Pixel Art::https://x.com/ShultzNG::FFFFFF
+Stawii::staw::Composer::https://x.com/iiwats::FFFFFF
+Sixty-Boll Dev Mod
+name::iconname::description::link::colorHex
+name::iconname::description::link::colorHex
