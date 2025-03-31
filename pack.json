@@ -1,9 +1,9 @@
 {
 	"name": "Low-Bit Mayhem",
-	"description": "Everything for Sixty-Boll. For testing purposes only!",
-	"restart":false,
-	"runsGlobally": false,
-	"color": [65, 65, 255],
-	"discordRPC": "863222024192262205",
+	"description": "Originally a scrapped song from a different mod, Low-Bit Mayhem is an FNF one-shot starring SA64 featuring an art-style based on SMB1.",
+	"restart":true,
+	"runsGlobally": true,
+	"color": [50, 50, 255],
+	"discordRPC": "1326053135315369994",
 	"iconFramerate": 10
 }
