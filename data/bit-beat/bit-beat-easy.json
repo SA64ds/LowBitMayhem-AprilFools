@@ -3569,7 +3569,7 @@
 		"player2": "pixel-sa64",
 		"song": "Bit-Beat",
 		"needsVoices": true,
-		"stage": "school",
+		"stage": "stage-smb",
 		"speed": 1.8,
 		"bpm": 140
 	}
