@@ -7,10 +7,18 @@ function onCreate()
    setProperty('isCameraOnForcedPos',true)
 
    picoYeah=0
+   easterEggDelay=2
+end
+
+function onUpdate()
+   --Ending screen testing
+   if keyJustPressed('volume_mute') then
+      endSong()
+   end
 end
 
 function onEndSong()
-   openCustomSubstate('bitbeatendingscreen', true)
+   openCustomSubstate('bitbeatendingscreen')
    return Function_Stop;
 end
 
@@ -23,23 +31,30 @@ function onCustomSubstateCreate(bitbeatendingscreen)
 end
 
 function onCustomSubstateUpdate(bitbeatendingscreen)
-   --Easter egg
-   if keyJustPressed('up') and picoYeah==0
-      picoYeah=1
-   elseif keyJustPressed('right') and picoYeah==1 then
-      picoYeah=2
-   elseif keyJustPressed('up') and picoYeah==2 then
-      picoYeah=3
-   elseif keyJustPressed('left') and picoYeah==3 then
-      picoYeah=4
-   elseif keyJustPressed('left') and picoYeah==4 then
-      picoYeah=5
-   end
-   
    if keyJustPressed('accept') then
       exitSong()
    end
-   if picoyeah==5 then
+end
+
+function onCustomSubstateUpdatePost(bitbeatendingscreen, easterEggDelay)
+	--Easter egg
+   if keyPressed('up') and picoYeah==0 then
+      picoYeah=1
+      playSound('easteregg')
+   elseif keyPressed('right') and picoYeah==1 then
+      picoYeah=2
+      playSound('easteregg')
+   elseif keyPressed('up') and picoYeah==2 then
+      picoYeah=3
+      playSound('easteregg')
+   elseif keyPressed('left') and picoYeah==3 then
+      picoYeah=4
+      playSound('easteregg')
+   elseif keyJustPressed('left') and picoYeah==4 then
+      playSound('warp')
+      
+      os.execute("sleep 1")
       loadSong('Bit-Beat (Pico Mix)', 1)
+      picoYeah=0 --Just in-case the song load fails
    end
 end
