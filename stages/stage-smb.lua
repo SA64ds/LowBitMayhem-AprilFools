@@ -1,6 +1,6 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('smb1stage', 'sa64stage', 138, 46);
+	makeLuaSprite('smb1stage', 'stages/sa64stage', 138, 46);
 	setScrollFactor('smb1stage', 1, 1);
 	scaleObject('smb1stage', 4, 4);
 

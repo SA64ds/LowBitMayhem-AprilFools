@@ -2,6 +2,19 @@ Sixty-Boll
 SA64::sa64::Charting & Pixel Art::https://linktr.ee/SA64ds::4141FF
 ShultzNG::shultz::Pixel Art::https://x.com/ShultzNG::FFFFFF
 Stawii::staw::Composer::https://x.com/iiwats::FFFFFF
-Sixty-Boll Dev Mod
-name::iconname::description::link::colorHex
-name::iconname::description::link::colorHex
+
+Low-Bit Mayhem (April Fools)
+SA64::sa64::Coding::https://bsky.app/profile/sa64ds.github.io::2857c6
+Cryoptera::cryo::Composer & Coder::https://bsky.app/profile/cryoptera.bsky.social::colorHex
+Charaster::chara::Charter::https://bsky.app/profile/charaster.bsky.social::colorHex
+ShultzNG::shultz::Volume 2 Album Art::https://bsky.app/profile/shultzyng.bsky.social::#5f0c44
+RykerTheStriker::ryker::SA64 Chromatic::https://bsky.app/profile/rykerthestriker.bsky.social::#00ff00
+
+Special Thanks
+Stawii::staw::Letting us do this update in the first place::link::colorHex
+Super Funkin' Galaxy::mario::I stole a script and some icons from them again. Also check out the upcoming April Fools update whenever that comes out.::https://gamebanana.com/mods/444759::#f01419
+Funkin' Sound Project::bf::Used their Week 6 Pico Pause Music::https://www.youtube.com/@FNFSoundTeam::colorHex
+
+Low-Bit Mayhem Socials
+Bluesky::bsky::Follow our Bluesky for future updates and teasers about the mod::https://bsky.app/profile/lowbitmayhemfnf.bsky.social::1185fe
+Twitter::twitter::Second verse, same as the first::https://twitter.com/LowBitMayhemFNF::1DA1F2

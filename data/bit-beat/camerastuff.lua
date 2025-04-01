@@ -18,12 +18,12 @@ function onUpdate()
 end
 
 function onEndSong()
-   openCustomSubstate('bitbeatendingscreen')
+   openCustomSubstate('bitbeatendingscreen', true)
    return Function_Stop;
 end
 
 function onCustomSubstateCreate(bitbeatendingscreen)
-   makeLuaSprite('endscreensprite','endscreen')
+   makeLuaSprite('endscreensprite','stages/endscreen', 0, 19)
    scaleObject('endscreensprite', 3, 3);
    setProperty('endscreensprite.antialiasing', false)
    insertToCustomSubstate('endscreensprite')
