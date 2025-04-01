@@ -52,8 +52,6 @@ function onCustomSubstateUpdatePost(bitbeatendingscreen, easterEggDelay)
       playSound('easteregg')
    elseif keyJustPressed('left') and picoYeah==4 then
       playSound('warp')
-      
-      os.execute("sleep 1")
       loadSong('Bit-Beat (Pico Mix)', 1)
       picoYeah=0 --Just in-case the song load fails
    end
