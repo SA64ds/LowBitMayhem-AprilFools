@@ -5,8 +5,8 @@ Stawii::staw::Composer::https://x.com/iiwats::FFFFFF
 
 Low-Bit Mayhem (April Fools)
 SA64::sa64::Coding::https://bsky.app/profile/sa64ds.github.io::2857c6
-Cryoptera::cryo::Composer & Coder::https://bsky.app/profile/cryoptera.bsky.social::ffad33
-Charaster::chara::Charter::https://bsky.app/profile/charaster.bsky.social::FFFFFF
+Cryoptera::cryo::Composer::https://bsky.app/profile/cryoptera.bsky.social::ffad33
+Charaster::chara::Charting::https://bsky.app/profile/charaster.bsky.social::FFFFFF
 ShultzNG::shultz::Volume 2 Album Art::https://bsky.app/profile/shultzyng.bsky.social::#5f0c44
 RykerTheStriker::ryker::SA64 Chromatic::https://bsky.app/profile/rykerthestriker.bsky.social::#00ff00
 
