@@ -6,7 +6,3 @@ function onCreate()
 
 	addLuaSprite('lbmvol2cover', true);
 end
-
-function onUpdate(elapsed)
-	setProperty("game.camZooming", false)
-end

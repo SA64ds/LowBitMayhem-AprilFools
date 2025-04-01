@@ -5,15 +5,16 @@ Stawii::staw::Composer::https://x.com/iiwats::FFFFFF
 
 Low-Bit Mayhem (April Fools)
 SA64::sa64::Coding::https://bsky.app/profile/sa64ds.github.io::2857c6
-Cryoptera::cryo::Composer & Coder::https://bsky.app/profile/cryoptera.bsky.social::colorHex
-Charaster::chara::Charter::https://bsky.app/profile/charaster.bsky.social::colorHex
+Cryoptera::cryo::Composer & Coder::https://bsky.app/profile/cryoptera.bsky.social::ffad33
+Charaster::chara::Charter::https://bsky.app/profile/charaster.bsky.social::FFFFFF
 ShultzNG::shultz::Volume 2 Album Art::https://bsky.app/profile/shultzyng.bsky.social::#5f0c44
 RykerTheStriker::ryker::SA64 Chromatic::https://bsky.app/profile/rykerthestriker.bsky.social::#00ff00
 
 Special Thanks
-Stawii::staw::Letting us do this update in the first place::link::colorHex
-Super Funkin' Galaxy::mario::I stole a script and some icons from them again. Also check out the upcoming April Fools update whenever that comes out.::https://gamebanana.com/mods/444759::#f01419
+Stawii::staw::Letting us do this update in the first place::link::#3c3934
+Super Funkin' Galaxy::mario::I stole a script and some icons from them again. Also check out the April Fools update.::https://gamebanana.com/mods/444759::#f01419
 Funkin' Sound Project::bf::Used their Week 6 Pico Pause Music::https://www.youtube.com/@FNFSoundTeam::colorHex
+and YOU!::guy::...for checking out the April Fools Update! I hope you enjoy playing it!::#::#FFFFFF
 
 Low-Bit Mayhem Socials
 Bluesky::bsky::Follow our Bluesky for future updates and teasers about the mod::https://bsky.app/profile/lowbitmayhemfnf.bsky.social::1185fe

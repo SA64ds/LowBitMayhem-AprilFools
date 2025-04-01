@@ -10,13 +10,6 @@ function onCreate()
    easterEggDelay=2
 end
 
-function onUpdate()
-   --Ending screen testing
-   if keyJustPressed('volume_mute') then
-      endSong()
-   end
-end
-
 function onEndSong()
    openCustomSubstate('bitbeatendingscreen', true)
    return Function_Stop;
